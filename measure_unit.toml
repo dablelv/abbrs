@@ -1,0 +1,11 @@
+# This is a TOML document about the measure unit abbreviations.
+[measure_unit]
+in=["inches"]
+ft=["feet"]
+lbs=["pounds"]
+mm=["millimeters"]
+cm=["centimeters"]
+m=["meters"]
+mg=["milligram"]
+g=["gram"]
+kg=["kilogram"]

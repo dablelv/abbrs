@@ -1,0 +1,6 @@
+# This is a TOML document about the places abbreviations.
+[palce]
+US=["United States"]
+UK=["United Kingdom"]
+EU=["European Union"]
+UAE=["United Arab Emirates"]

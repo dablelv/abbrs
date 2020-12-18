@@ -1,0 +1,13 @@
+# This is a TOML document about the abbreviations of courtesy titles and academic degrees.
+[title]
+Mr=["Mister"]
+Mrs=["Mistress"]
+Ms=["Miss"]
+Sr=["Senior"]
+Jr=["Junior"]
+Dr=["Doctor"]
+BS=["Bachelor of Science"]
+BA=["Bachelor of Arts"]
+MA=["Master of Arts"]
+MBA=["Master of Business Administration"]
+PhD=["Doctor of Philosophy"]
