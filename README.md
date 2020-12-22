@@ -1,8 +1,8 @@
 # Synopsis
 This project aims to list common identifier abbreviations to help coders write concise and easy to read code.
 
-The identifier is arranged in multiple files with the first letter, but some similar words will be filed in separate
- files, for instance the abbreviations of object type in file "object.toml".
+The identifier is arranged in multiple files with the first letter, but some similar words will be filed in
+ independent files, for instance the abbreviations of object type in file "object_type.toml".
 ```
 # This is a TOML document about the abbreviations of object type.
 [object_type]
