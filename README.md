@@ -35,6 +35,8 @@ p = ["pointer"]
 j = ["json"]
 q = ["queue"]
 stk = ["stack"]
+o = ["object"]
+sl = ["slice"]
 ```
 You may find the file format type is [TOML](https://github.com/toml-lang/toml). The purpose of this is to facilitate the quick translation of the above
  abbreviations into data structures in a wide variety of languages in the future if needed.
