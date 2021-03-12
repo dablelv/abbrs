@@ -1,5 +1,8 @@
 [c]
 calc=["calculate"]
+cas=["compare and swap"]
+cate=["category"]
+chan=["channel"]
 char=["character"]
 chg=["change"]
 chk=["check"]
