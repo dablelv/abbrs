@@ -1,5 +1,6 @@
 [r]
 r=["read"]
+rm=["remove"]
 rcl=["recall"]
 rdy=["ready"]
 react=["reactive"]
