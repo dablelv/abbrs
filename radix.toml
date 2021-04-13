@@ -1,7 +1,0 @@
-# This is a TOML document about the radix abbreviations.
-[radix]
-bin=["binary"]
-oct=["octal"]
-dec=["decimal"]
-duo=["duodecimal"]
-hex=["hexadecimal"]
