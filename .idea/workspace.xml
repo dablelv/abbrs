@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64b130d0-fc8e-4189-84d8-4ead514c8fe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/number.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-z/f.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/f.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-z/r.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/r.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-z/a.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/a.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a-z/s.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/s.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-z/t.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/t.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radix.toml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
