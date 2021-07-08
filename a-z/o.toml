@@ -2,6 +2,6 @@
 o=["output"]
 obj=["object"]
 ofs=["offset"]
-opt=["optimize","option"]
+opt=["optimize","option","optional"]
 org=["origin","organization"]
 ovf=["overflow"]

@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="64b130d0-fc8e-4189-84d8-4ead514c8fe8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-z/d.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/d.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-z/q.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/q.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-z/r.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/r.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-z/a.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/a.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-z/i.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/i.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-z/o.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/o.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a-z/s.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/s.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-z/t.toml" beforeDir="false" afterPath="$PROJECT_DIR$/a-z/t.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,18 @@
       </set>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/a-z/a.toml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/a-z/i.toml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/a-z/s.toml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/title.toml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/date_time.toml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/a-z/o.toml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/object_type.toml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/a-z/r.toml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/place.toml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/a-z/t.toml" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1ljALZDQIsyRHyJzDBFKymQ7Q3C" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,7 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kknock/component" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
