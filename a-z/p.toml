@@ -1,6 +1,7 @@
 [p]
 pkg=["package"]
 pkt=["packet"]
+ptn=["partition"]
 pass=["password"]
 param=["parameter"]
 perf=["performance"]

@@ -1,5 +1,5 @@
 [w]
-w=["write"]
+w=["write","width"]
 var=["variable"]
 ver=["version"]
 vert=["vertical"]
