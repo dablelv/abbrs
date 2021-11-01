@@ -1,4 +1,5 @@
 [t]
+t=["type"]
 tbl=["table"]
 tgt=["target"]
 tgl=["toggle"]
