@@ -1,6 +1,7 @@
 [r]
 r=["read"]
 rand=["random"]
+rat=["rational"]
 rcl=["recall"]
 rdy=["ready"]
 react=["reactive"]

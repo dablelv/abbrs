@@ -1,5 +1,6 @@
 [m]
 mag=["magnitude"]
+mant=["mantissa"]
 mbox=["mailbox"]
 mk=["make"]
 mgr=["manager"]
