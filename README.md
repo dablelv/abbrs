@@ -5,8 +5,8 @@ This project aims to list common identifier abbreviations to help coders write c
 
 The identifier is arranged in multiple files with the first letter, but some similar words will be filed in
  independent files, for instance the abbreviations of object type in file "object_type.toml".
-```
-# This is a TOML document about the abbreviations of object type.
+```toml
+# This is a TOML document
 [object_type]
 b = ["bool"]
 by = ["byte"]

@@ -5,7 +5,7 @@
 
 标识符以第一个字母排列在多个文件中，但一些类似的单词将在独立文件中归档，例如文件“object_type.toml”中的变量类型缩写。
 ```toml
-# 这是一个 TOML 文档描述常见变量类型缩写
+# 这是一个 TOML 文档
 [object_type]
 b = ["bool"]
 by = ["byte"]
