@@ -39,7 +39,7 @@ stk = ["stack"]
 o = ["object"]
 sl = ["slice"]
 ```
-文件使用 [TOML](https://github.com/toml-lang/toml)格式，这样做的目的是为了将来如果有需要，可以方便快速将上述缩写转换为多种语言的数据结构。
+文件使用 [TOML](https://github.com/toml-lang/toml) 格式，这样做的目的是为了将来如果有需要，可以方便快速将上述缩写转换为多种语言的数据结构。
 
 如果你想检查你写的内容是否符合 toml 语法，你可以使用在线工具 https://toml-parser.com 校验.
 
