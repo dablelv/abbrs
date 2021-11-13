@@ -1,4 +1,4 @@
-[简体中文 README](README_CN.md)
+[简体中文 README](README_zh.md)
 
 # Synopsis
 This project aims to list common identifier abbreviations to help coders write concise and easy to read code.
