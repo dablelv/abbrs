@@ -1,7 +1,7 @@
 [i]
 id=["identifier"]
 idx=["index"]
-imp=["implement"]
+impl=["implement"]
 in=["input"]
 incr=["increment","increase"]
 ineff=["ineffective"]
