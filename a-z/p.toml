@@ -1,7 +1,7 @@
 [p]
 pass=["password"]
 param=["parameter"]
-pct=["percentile"]
+pct=["percent","percentile"]
 perf=["performance"]
 perd=["period"]
 perm=["permit","permission"]
