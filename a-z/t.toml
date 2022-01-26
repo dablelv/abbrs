@@ -2,6 +2,7 @@
 t=["type"]
 tbl=["table"]
 temp=["temperature"]
+term=["termination"]
 tgt=["target"]
 tgl=["toggle"]
 thres=["threshold"]
