@@ -1,6 +1,7 @@
 [t]
 t=["type"]
 tbl=["table"]
+temp=["temperature"]
 tgt=["target"]
 tgl=["toggle"]
 thres=["threshold"]
