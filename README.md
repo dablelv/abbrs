@@ -51,7 +51,7 @@ Common word abbreviation rules are as follows:
 - Word syllable initials splicing, such as msg (message);
 - Multiple word initials splicing, such as NASA (National Aeronautics and Space Administration);
 - Remove the vowels aeiou and keep the consonants, such ad JPN (Japan), CHN (China) and ft (foot);
-- A common abbreviation, such as thx (thanks).
+- A common abbreviation, such as thx(thanks).
 
 # Get Involved
 Documentation, bug reports, pull requests, and all other contributions are welcome!
