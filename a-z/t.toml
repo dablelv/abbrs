@@ -1,6 +1,7 @@
 [t]
 t=["type"]
 tbl=["table"]
+tech=["technology"]
 temp=["temperature"]
 term=["termination"]
 tgt=["target"]
