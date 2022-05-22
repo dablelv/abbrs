@@ -2,4 +2,7 @@
 a=["anchor"]
 b=["bold"]
 href=["hypertext reference"]
+i=["italic"]
 li=["list item"]
+ol=["ordered list"]
+ul=["unordered list"]
