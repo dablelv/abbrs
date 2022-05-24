@@ -1,6 +1,7 @@
 [html]
 a=["anchor"]
 b=["bold"]
+br=["break"]
 href=["hypertext reference"]
 i=["italic"]
 li=["list item"]
