@@ -1,6 +1,6 @@
 [a]
 abrt=["abort"]
-abs=["absolute"]
+abs=["absolute","abstract"]
 ack=["acknowledge"]
 acc=["accuracy"]
 act=["action","activity"]
