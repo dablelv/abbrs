@@ -1,5 +1,5 @@
 [p]
-pass=["password"]
+pwd=["password"]
 param=["parameter"]
 pct=["percent","percentile"]
 perf=["performance"]
