@@ -2,6 +2,7 @@
 v=["value"]
 vld=["valid"]
 var=["variable"]
+varint=["variable length integer"]
 ver=["version"]
 vert=["vertical"]
 vect=["vector"]
