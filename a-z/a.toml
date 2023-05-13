@@ -1,7 +1,7 @@
 [a]
 abrt=["abort"]
 abs=["absolute","abstract"]
-ack=["acknowledgement"]
+ack=["acknowledge","acknowledgement"]
 acc=["accuracy"]
 act=["action","activity"]
 addr=["address"]
