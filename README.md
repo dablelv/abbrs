@@ -57,4 +57,4 @@ Common word abbreviation rules are as follows:
 Documentation, bug reports, pull requests, and all other contributions are welcome!
 
 # References
-Some abbreviations refer to the website [ABBREVIATIONS](https://www.abbreviations.com).
+Some abbreviations refer to the website [ABBREVIATIONS](https://www.abbreviations.com) or [allacronyms](https://www.allacronyms.com/).

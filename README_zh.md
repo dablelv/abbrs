@@ -55,4 +55,4 @@ sl = ["slice"]
 欢迎提供文档、bug 报告、合并请求和所有其他贡献！
 
 # 参考文献
-其他缩写可参考网站 [ABBREVIATIONS](https://www.abbreviations.com).
+其他缩写可参考网站 [abbreviations](https://www.abbreviations.com) 或 [allacronyms](https://www.allacronyms.com/)。
