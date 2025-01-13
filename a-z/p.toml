@@ -1,7 +1,7 @@
 [p]
 pat=["pattern"]
 pwd=["password"]
-param=["parameter"]
+param=["parameter", "parametric"]
 pct=["percent","percentile"]
 perf=["performance"]
 perd=["period"]
