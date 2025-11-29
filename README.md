@@ -1,6 +1,4 @@
-[简体中文 README](README_zh.md)
-
-# Synopsis
+# 1.Synopsis
 This project aims to list common identifier abbreviations to help coders write concise and easy to read code.
 
 The identifier is arranged in multiple files with the first letter, but some similar words will be filed in
@@ -40,12 +38,13 @@ stk = ["stack"]
 o = ["object"]
 sl = ["slice"]
 ```
-You may find the file format type is [TOML](https://github.com/toml-lang/toml). The purpose of this is to facilitate the quick translation of the above
- abbreviations into data structures in a wide variety of languages in the future if needed.
+You may find the file format type is [TOML](https://github.com/toml-lang/toml).
+
+The purpose of this is to facilitate the quick translation of the above abbreviations into data structures in a wide variety of languages in the future if needed.
 
 If you want to check your writing for toml compliance, you can use online tools https://toml-parser.com.
 
-# Common Abbreviation Rules
+# 2.Common Abbreviation Rules
 Common word abbreviation rules are as follows:
 - The first few or some letters of a word, such as addr (address) and asm (assembly);
 - Word syllable initials splicing, such as msg (message);
@@ -53,8 +52,8 @@ Common word abbreviation rules are as follows:
 - Remove the vowels aeiou and keep the consonants, such ad JPN (Japan), CHN (China) and ft (foot);
 - A common abbreviation, such as thx(thanks).
 
-# Get Involved
+# 3.Get Involved
 Documentation, bug reports, pull requests, and all other contributions are welcome!
 
-# References
+# 4.References
 Some abbreviations refer to the website [ABBREVIATIONS](https://www.abbreviations.com) or [allacronyms](https://www.allacronyms.com/).
